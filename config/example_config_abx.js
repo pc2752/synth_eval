@@ -1,6 +1,6 @@
 // configure the test here
 var TestConfig = {
-  "TestName": "Source Separation Evaluation",
+  "TestName": "Performance Driven Synthesis Evaluation",
   "LoopByDefault": true,
   "ShowFileIDs": false,
   "ShowResults": false,
