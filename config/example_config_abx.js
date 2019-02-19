@@ -6,7 +6,7 @@ var TestConfig = {
   "ShowResults": false,
   "EnableABLoop": true,
   "EnableOnlineSubmission": true,
-  "BeaqleServiceURL": "/sourcesepeval/web_service/beaqleJS_Service.php",
+  "BeaqleServiceURL": "/synth_eval/web_service/beaqleJS_Service.php",
   "SupervisorContact": "",
   "RandomizeTestOrder": false,
   "MaxTestsPerRun": 45,
@@ -162,7 +162,7 @@ var TestConfig = {
         "X": " ",
         "Y": " ",
       }
-    },    
+    },
     {
       "Name": "Intelligibility 16",
       "TestID": "id15",
