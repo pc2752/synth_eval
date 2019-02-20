@@ -28,8 +28,8 @@ var TestConfig = {
       "Name": "Intelligibility 2",
       "TestID": "id2",
       "Files": {
-        "A": "audio/npss_4.mp3",
-        "B": "audio/ori_4.mp3",
+        "A": "audio/npss_2.mp3",
+        "B": "audio/ori_2.mp3",
         "X": " ",
         "Y": " ",
       }
@@ -158,8 +158,8 @@ var TestConfig = {
       "Name": "Intelligibility 15",
       "TestID": "id10",
       "Files": {
-        "A": "audio/gl_1.mp3",
-        "B": "audio/gcc_1.mp3",
+        "A": "audio/gl_5.mp3",
+        "B": "audio/gcc_5.mp3",
         "X": " ",
         "Y": " ",
       }
@@ -298,8 +298,8 @@ var TestConfig = {
       "Name": "Audio Quality 14",
       "TestID": "id4",
       "Files": {
-        "A": "audio/gcc_3.mp3",
-        "B": "audio/gl_3.mp3",
+        "A": "audio/gcc_5.mp3",
+        "B": "audio/gl_5.mp3",
         "X": " ",
         "Y": " ",
       }
