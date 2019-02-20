@@ -10,7 +10,7 @@ var TestConfig = {
   "BeaqleServiceURL": "/synth_eval/web_service/beaqleJS_Service.php",
   "SupervisorContact": "",
   "RandomizeTestOrder": false,
-  "MaxTestsPerRun": 20,
+  "MaxTestsPerRun": 45,
   "AudioRoot": "",
   "Testsets": [
     //
@@ -28,8 +28,8 @@ var TestConfig = {
       "Name": "Intelligibility 2",
       "TestID": "id2",
       "Files": {
-        "A": "audio/gl_2.mp3",
-        "B": "audio/npss_2.mp3",
+        "A": "audio/npss_4.mp3",
+        "B": "audio/ori_4.mp3",
         "X": " ",
         "Y": " ",
       }
@@ -114,7 +114,7 @@ var TestConfig = {
         "Y": " ",
       }
     },
-        {
+    {
       "Name": "Intelligibility 11",
       "TestID": "id10",
       "Files": {
@@ -123,7 +123,8 @@ var TestConfig = {
         "X": " ",
         "Y": " ",
       }
-            {
+    },
+    {
       "Name": "Intelligibility 12",
       "TestID": "id10",
       "Files": {
@@ -133,7 +134,7 @@ var TestConfig = {
         "Y": " ",
       }
     },
-                {
+    {
       "Name": "Intelligibility 13",
       "TestID": "id10",
       "Files": {
@@ -143,7 +144,7 @@ var TestConfig = {
         "Y": " ",
       }
     },
-                    {
+    {
       "Name": "Intelligibility 14",
       "TestID": "id10",
       "Files": {
@@ -153,7 +154,7 @@ var TestConfig = {
         "Y": " ",
       }
     },
-                        {
+    {
       "Name": "Intelligibility 15",
       "TestID": "id10",
       "Files": {
@@ -293,7 +294,6 @@ var TestConfig = {
         "Y": " ",
       }
     },
-
     {
       "Name": "Audio Quality 14",
       "TestID": "id4",
@@ -314,6 +314,7 @@ var TestConfig = {
         "Y": " ",
       }
     },
+     
   ]
 }
 
