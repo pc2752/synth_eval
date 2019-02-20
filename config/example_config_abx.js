@@ -115,50 +115,7 @@ var TestConfig = {
       }
     },
     {
-<<<<<<< HEAD
-=======
-      "Name": "Intelligibility 13",
-      "TestID": "id13",
-      "Files": {
-        "A": "audio/gl_4.mp3",
-        "B": "audio/npss_4.mp3",
-        "X": " ",
-        "Y": " ",
-      }
-    },
-    {
-      "Name": "Intelligibility 14",
-      "TestID": "id14",
-      "Files": {
-        "A": "audio/npss_3.mp3",
-        "B": "audio/ori_3.mp3",
-        "X": " ",
-        "Y": " ",
-      }
-    },
-    {
-      "Name": "Intelligibility 15",
-      "TestID": "id15",
-      "Files": {
-        "A": "audio/ori_4.mp3",
-        "B": "audio/gl_4.mp3",
-        "X": " ",
-        "Y": " ",
-      }
-    },
-    {
-      "Name": "Intelligibility 16",
-      "TestID": "id15",
-      "Files": {
-        "A": "audio/gc_3.mp3",
-        "B": "audio/gl_3.mp3",
-        "X": " ",
-        "Y": " ",
-      }
-    },    //
-    {
->>>>>>> a9074820b2c4e1cb79c63f906f2044d3c74c00e7
-      "Name": "Audio Quality 1",
+    "Name": "Audio Quality 1",
       "TestID": "id11",
       "Files": {
         "A": "audio/gcc_4.mp3",
