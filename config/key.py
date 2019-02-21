@@ -25,3 +25,5 @@ flipknot_ori_gan_q = [1,1,0,1,1]
 flipknot_npss_gan_q = [1,1,0,1,1]
 flipknot_cha_gan_q = [0,0,1,1,0]
 
+
+ignore = ["20190219-1646__5b4828ee.txt",  "20190220-1030__4cc26a0a.txt"]
