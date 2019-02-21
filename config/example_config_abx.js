@@ -29,7 +29,7 @@ var TestConfig = {
       "TestID": "id2",
       "Files": {
         "A": "audio/npss_2.mp3",
-        "B": "audio/ori_2.mp3",
+        "B": "audio/gl_2.mp3",
         "X": " ",
         "Y": " ",
       }
